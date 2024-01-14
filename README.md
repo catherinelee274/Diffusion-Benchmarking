@@ -4,4 +4,4 @@
 
 Latent Consistency Models trained using DPO
 
-## How to Run
+## How to Train
