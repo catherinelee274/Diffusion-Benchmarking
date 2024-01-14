@@ -2,7 +2,9 @@
 
 ## About 
 
-Latent Consistency Models trained using DPO
+Latent Consistency Models trained using Direct Preference Optimizatoin
+- https://arxiv.org/abs/2112.10752
+- https://latent-consistency-models.github.io/
 
 ## How to Initialize LCM with DPO
 ```
