@@ -2,6 +2,6 @@
 
 ## About 
 
-An implementation for Latent Consistency Models and DPO 
+Latent Consistency Models trained using DPO
 
 ## How to Run
