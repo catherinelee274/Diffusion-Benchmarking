@@ -10,7 +10,7 @@ Latent Consistency Models trained using Direct Preference Optimizatoin
 ## Dataset 
 on direct preference data 
 
-## How to Initialize LCM with DPO
+## How to Initialize LCM - Lora with DPO
 ```
 def load_pipe(use_dpo: bool = False) -> DiffusionPipeline:
     vae = AutoencoderKL.from_pretrained("madebyollin/sdxl-vae-fp16-fix", torch_dtype=torch.float16)
