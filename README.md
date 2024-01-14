@@ -6,6 +6,9 @@ Latent Consistency Models trained using Direct Preference Optimizatoin
 - https://arxiv.org/abs/2112.10752
 - https://latent-consistency-models.github.io/
 
+## Dataset 
+on direct preference data 
+
 ## How to Initialize LCM with DPO
 ```
 def load_pipe(use_dpo: bool = False) -> DiffusionPipeline:
