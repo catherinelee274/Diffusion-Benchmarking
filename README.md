@@ -36,3 +36,6 @@ def load_pipe(use_dpo: bool = False) -> DiffusionPipeline:
 
 pipe = load_pipe(False)
 ```
+
+# Slides 
+https://docs.google.com/presentation/d/11yQJeaHxmU58AsHpO23_oSvRH-aJyc3j5Myx4_Lnlu0/edit#slide=id.p
