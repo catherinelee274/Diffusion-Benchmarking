@@ -3,6 +3,8 @@
 
 ## About 
 
+Neurips Applied Ai Research Hackathon 2024
+
 Latent Consistency Models trained using Direct Preference Optimizatoin
 - https://arxiv.org/abs/2112.10752
 - https://latent-consistency-models.github.io/
