@@ -1,3 +1,8 @@
+# LDM/LCM Evaluation Results
+
+**TODO**
+
+
 # lcm_dpo
 <img width="629" alt="Screenshot 2024-01-13 at 9 45 23 PM" src="https://github.com/catherinelee274/lcm_dpo/assets/14174625/d10d164c-eb91-478f-8783-2d1f2d42a08e">
 
