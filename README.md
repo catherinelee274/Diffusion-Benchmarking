@@ -51,3 +51,6 @@ https://docs.google.com/presentation/d/11yQJeaHxmU58AsHpO23_oSvRH-aJyc3j5Myx4_Ln
 - ldm_eval
 - lcm_eval
 - ldm_eval_accelerated
+
+# todo
+eval server
